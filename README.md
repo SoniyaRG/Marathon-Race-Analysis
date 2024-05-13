@@ -27,18 +27,18 @@ An overview of the data using df.head(), .shape and so on.
 Checked the data types with df.dtypes.<br>
 **4. Data Cleaning:** <br>
 Identified and handled missing values using methods like df.isnull().sum().
-Find and address duplicates with df.duplicated().sum().<br>
+Found and addressed duplicates with df.duplicated().sum().<br>
 **5. Univariate Analysis:** <br>
-Analyze single variables at a time.
-Use descriptive statistics with df.describe() for numerical data.
-Create histograms, box plots, and density plots to visualize distributions.<br>
-**6. Bivariate Analysis:**
-Explore relationships between two variables.
-Create scatter plots to identify trends and potential correlations.<br>
-**7. Visualization:**
+Analyzed single variables at a time.
+Used descriptive statistics with df.describe() for numerical data.
+Created histograms, box plots, and density plots to visualize distributions.<br>
+**6. Bivariate Analysis:** <br>
+Explored relationships between two variables.
+Created scatter plots to identify trends and potential correlations.<br>
+**7. Visualization:** <br>
 Effective visualizations are crucial for understanding data.
-Use various plots like bar charts, pie charts, and heatmaps to represent categorical data.<br>
-Conclusion
+Used various plots like bar charts, pie charts to represent categorical data.<br>
+
 
 
 
